@@ -1,4 +1,4 @@
-package boj;
+package backtracking;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -8,6 +8,11 @@ import java.util.StringTokenizer;
 public class boj14888 {
     /*
     연산자 끼워 넣기
+    입력 : 6
+           1 2 3 4 5 6
+           2 1 1 1
+     출력 : 54
+            -24
      */
 
     static int N;
