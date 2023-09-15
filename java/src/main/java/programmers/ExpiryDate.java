@@ -5,6 +5,9 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class ExpiryDate {
+    /*
+    개인정보 수집 유효기간
+     */
 
     public int[] solution(String today, String[] terms, String[] privacies) {
         int[] answer = {};
